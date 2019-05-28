@@ -1,0 +1,8 @@
+com\in28minutes\students\endpoints\StudentDetailsEndpoint.class
+com\in28minutes\students\GetStudentDetailsResponse.class
+com\in28minutes\students\MainApp.class
+com\in28minutes\students\GetStudentDetailsRequest.class
+com\in28minutes\students\StudentDetails.class
+com\in28minutes\students\config\Config.class
+com\in28minutes\students\ObjectFactory.class
+com\in28minutes\students\package-info.class

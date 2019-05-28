@@ -1,0 +1,5 @@
+com\example\howtodoinjava\schemas\school\GetStudentDetailsResponse.class
+com\example\howtodoinjava\schemas\school\ObjectFactory.class
+com\example\howtodoinjava\schemas\school\StudentDetails.class
+com\example\howtodoinjava\schemas\school\GetStudentDetailsRequest.class
+com\example\howtodoinjava\schemas\school\package-info.class

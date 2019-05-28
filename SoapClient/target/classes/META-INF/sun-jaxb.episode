@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bindings xmlns="http://java.sun.com/xml/ns/jaxb" if-exists="true" version="2.1">
+  <!--
+
+Ce fichier a été généré par l'implémentation de référence JavaTM Architecture for XML Binding (JAXB), v2.2.11 
+Voir <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
+Toute modification apportée à ce fichier sera perdue lors de la recompilation du schéma source. 
+Généré le : 2019.05.28 à 05:15:40 PM WET 
+
+  -->
+  <bindings xmlns:tns="http://in28minutes.com/students" if-exists="true" scd="x-schema::tns">
+    <schemaBindings map="false">
+      <package name="com.example.howtodoinjava.schemas.school"/>
+    </schemaBindings>
+    <bindings if-exists="true" scd="tns:GetStudentDetailsRequest">
+      <class ref="com.example.howtodoinjava.schemas.school.GetStudentDetailsRequest"/>
+    </bindings>
+    <bindings if-exists="true" scd="tns:GetStudentDetailsResponse">
+      <class ref="com.example.howtodoinjava.schemas.school.GetStudentDetailsResponse"/>
+    </bindings>
+    <bindings if-exists="true" scd="~tns:StudentDetails">
+      <class ref="com.example.howtodoinjava.schemas.school.StudentDetails"/>
+    </bindings>
+  </bindings>
+</bindings>
